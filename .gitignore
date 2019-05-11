@@ -1,0 +1,4 @@
+project
+*archive*
+*data*
+*.ipynb_checkpoints/
